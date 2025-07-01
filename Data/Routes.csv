@@ -1,0 +1,30 @@
+Route_ID,Origin,Destination,Mode,Transit_Time
+1,Portugal,Germany,Own Fleet,4
+2,Portugal,Spain,Own Fleet,2
+3,Portugal,France,Own Fleet,3
+4,Portugal,Germany,Supplier,4
+5,Portugal,France,Supplier,3
+6,Portugal,Portugal,Own Fleet,1
+7,Portugal,Poland,Own Fleet,6
+8,Portugal,Luxembourg,Supplier,4
+9,Portugal,Belgium,Own Fleet,3
+10,Portugal,Belgium,Supplier,3
+11,Spain,Portugal,Own Fleet,2
+12,Portugal,Netherlands,Own Fleet,4
+13,France,Portugal,Own Fleet,3
+14,Portugal,Italy,Supplier,4
+15,Germany,Portugal,Own Fleet,4
+16,Portugal,Italy,Own Fleet,4
+17,Italy,Portugal,Own Fleet,4
+18,Portugal,Sweden,Own Fleet,7
+19,Spain,Spain,Own Fleet,2
+20,Portugal,Netherlands,Supplier,4
+21,Portugal,Austria,Own Fleet,4
+22,Portugal,Sweden,Supplier,7
+23,Portugal,Spain,Supplier,2
+24,Portugal,Austria,Supplier,4
+25,Portugal,Greece (EL),Supplier,5
+26,Portugal,Poland,Supplier,6
+27,Germany,Germany,Own Fleet,4
+28,France,Portugal,Supplier,3
+29,Portugal,Portugal,Supplier,1

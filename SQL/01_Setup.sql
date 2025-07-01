@@ -1,0 +1,4 @@
+-- Expected stuture for each table (referência)
+-- Deliveries: Delivery_ID, Dispatch_Date, Delivery_Date, Route_ID, Customer_ID, Gross_Weight, Status
+-- Customers: Customer_ID, Name, Location, Industry
+-- Routes: Route_ID, Origin, Destination, Mode, Transit_Time
