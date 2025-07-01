@@ -84,7 +84,7 @@ The report includes two interactive pages designed for operational monitoring.
 - **KPIs**: Same as above
 - **Slicers**: Destination, Mode, Customer Name
 - **Visuals**:
-  - Status Breakdown (Column chart)
+  - Status Breakdown (column chart)
   - Detailed Deliveries Table
   - Summary Table per Destination with averages and % values
 
