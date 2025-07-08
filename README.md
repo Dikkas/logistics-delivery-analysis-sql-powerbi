@@ -122,7 +122,7 @@ delivery-performance-dashboard/
 │   └── 04_data_table.sql
 │
 ├── assets/
-│   ├── DeliveryOverview.png # dashboard preview image for GitHub
+│   ├── DeliveryOverview.png
 │   ├── PerformancebyDestination.png
 │   └── Report_PDF.pdf  
 </code></pre>
