@@ -103,7 +103,7 @@ The report includes two interactive pages designed for operational monitoring.
 ---
 
 ## Folder Structure
-
+<pre><code>
 delivery-performance-dashboard/
 │
 ├── README.md
@@ -125,7 +125,7 @@ delivery-performance-dashboard/
 │   ├── DeliveryOverview.png # dashboard preview image for GitHub
 │   ├── PerformancebyDestination.png
 │   └── Report_PDF.pdf  
-
+</code></pre>
 ---
 
 ## Notes
